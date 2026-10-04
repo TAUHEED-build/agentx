@@ -1,0 +1,6 @@
+{
+  "name": "AGENTX — AI Agent Security & Reliability Laboratory",
+  "description": "Controlled sandbox environment to stress-test AI agents against security attacks, tool abuse, and reliability faults, with attack-path reconstruction, blast-radius scoring, and remediation verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
